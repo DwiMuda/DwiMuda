@@ -27,7 +27,6 @@ const me = {
 };
 ```
 
-honestly just vibing with code and trying to build stuff that doesn't break production 😅
 
 <br clear="both">
 
