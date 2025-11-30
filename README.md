@@ -1,6 +1,7 @@
 <div align="center">
 
-#  Dwi Muda
+<img  alt="Coding" width="700" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnNzaTl3eG9wemd0YndzeXoxZnAweXo0YWI1MGY3Y3R6amdvYTVuNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jzHFPlw89eTqU/giphy.gif">
+
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Building+with+Vue+%26+React+%F0%9F%92%9A;Bali+Based+Developer+%F0%9F%8C%B4;Let's+Build+Something+Cool!" alt="Typing SVG" />
 
