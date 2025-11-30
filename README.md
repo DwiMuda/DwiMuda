@@ -299,7 +299,7 @@ honestly just vibing with code and trying to build stuff that doesn't break prod
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="200" />
+
 
 ### 💼 down to collab on cool projects or just chat about tech
 
