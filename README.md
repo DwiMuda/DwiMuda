@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌊 Dwi Muda
+#  Dwi Muda
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Building+with+Vue+%26+React+%F0%9F%92%9A;Bali+Based+Developer+%F0%9F%8C%B4;Let's+Build+Something+Cool!" alt="Typing SVG" />
 
@@ -8,7 +8,6 @@
 
 </div>
 
----
 
 ## 👋 yo, what's up!
 
@@ -17,19 +16,19 @@
 ```javascript
 const me = {
   name: "Dwi Muda",
-  location: "📍 Denpasar, Bali",
+  location: " Denpasar, Bali",
   languages: ["JavaScript", "TypeScript", "Python", "Java"],
-  frameworks: ["⚛️ React", "💚 Vue.js", "▲ Next.js", "🟢 Node.js"],
-  databases: ["🍃 MongoDB", "🐘 PostgreSQL", "🐬 MySQL"],
+  frameworks: [" React", " Vue.js", " Next.js", " Node.js"],
+  databases: [" MongoDB", " PostgreSQL", " MySQL"],
   currently: "deep diving into Vue 3 + Nuxt",
-  weekendVibes: "🏖️ beach walks & ☕ coffee",
+  weekendVibes: " beach walks &  coffee",
   motto: "ship fast, break things (responsibly)",
 };
 ```
 
 <br clear="both">
 
----
+
 
 ## 🔥 what im up to rn
 
@@ -112,14 +111,9 @@ const me = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
 
-## 📊 github stats (for the flex)
 
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DwiMuda&show_icons=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&rank_icon=github" alt="GitHub Stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DwiMuda&layout=compact&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117&langs_count=10&hide=html,css" alt="Top Languages" />
-</div>
+
 
 <div align="center">
   <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=DwiMuda&theme=neon-dark&hide_border=true&stroke=0d1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&background=0d1117" alt="GitHub Streak" />
@@ -131,7 +125,7 @@ const me = {
 
 <div align="center">
   
-### 🏆 GitHub Trophies & Achievements
+
 
 <img width="90%" src="https://github-profile-trophy.vercel.app/?username=DwiMuda&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4&title=Stars,Followers,Commits,Repositories,PullRequest,Reviews,Issues,MultiLanguage" alt="Trophies" />
 
@@ -139,7 +133,7 @@ const me = {
 
 <div align="center">
 
-### 📈 Detailed Profile Summary
+
 
 <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DwiMuda&theme=radical" alt="Profile Summary" />
 
@@ -147,7 +141,7 @@ const me = {
 
 <div align="center">
 
-### 💻 Contribution Stats
+
 
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DwiMuda&theme=radical" alt="Productive Time" />
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DwiMuda&theme=radical" alt="Repos Per Language" />
@@ -156,9 +150,9 @@ const me = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
 
-## 🚀 stuff ive built
+
+##  PROJECT
 
 <table width="100%">
 <tr>
@@ -268,9 +262,9 @@ const me = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
 
-## 🎮 when im not coding
+
+
 
 <div align="center">
 
@@ -301,25 +295,17 @@ const me = {
 
 </div>
 
----
 
-## 💭 dev quote of the day
 
-<div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
 
-## 🤝 lets connect
+
 
 <div align="center">
 
-### 💼 down to collab on cool projects or just chat about tech
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nagamudika@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dek-dwi-35657439b)
@@ -330,19 +316,14 @@ const me = {
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
+
 
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
-### ⭐ thanks for stopping by!
 
-**feel free to star some repos if you vibe with my code ✨**
-
-**peace ✌️**
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
