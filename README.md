@@ -4,7 +4,7 @@
 
 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Building+with+Vue+%26+React+%F0%9F%92%9A;Bali+Based+Developer+%F0%9F%8C%B4;Let's+Build+Something+Cool!" alt="Typing SVG" />
+
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
