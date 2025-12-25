@@ -1,6 +1,7 @@
+<div align="center">
 <img align="center" alt="Coding" width="800" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExenpzbnk5dmJ5aGtjMG05eGJocGZhYnYzYW5ibnhrNzFrYnVtenVocCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13cswZEvNJM7ZK/giphy.gif">
 
-<div align="center">
+
 
 
 
