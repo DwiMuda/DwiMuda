@@ -137,11 +137,7 @@
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=DwiMuda&repo=Login-Ui-React-Native&theme=neon-dark&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&bg_color=0d1117)](https://github.com/DwiMuda/Login-Ui-React-Native)
 
-```
-🎯 clean mobile login screen
-📦 stack: React Native
-✨ smooth animations & validation
-```
+
 
 <div align="center">
 
@@ -159,11 +155,7 @@
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=DwiMuda&repo=profile&theme=neon-dark&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&bg_color=0d1117)](https://github.com/DwiMuda/profile)
 
-```
-🎯 my corner of the internet
-📦 stack: HTML, CSS, JavaScript
-✨ responsive design, project showcase
-```
+
 
 <div align="center">
 
@@ -175,7 +167,7 @@
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 
 
@@ -214,7 +206,7 @@
 
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 
 
