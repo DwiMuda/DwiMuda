@@ -15,18 +15,7 @@
 
 <img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding gif">
 
-```javascript
-const me = {
-  name: "Dwi Muda",
-  location: " Denpasar, Bali",
-  languages: ["JavaScript", "TypeScript", "Python", "Java"],
-  frameworks: [" React", " Vue.js", " Next.js", " Node.js"],
-  databases: [" MongoDB", " PostgreSQL", " MySQL"],
-  currently: "deep diving into Vue 3 + Nuxt",
-  weekendVibes: " beach walks &  coffee",
-  motto: "ship fast, break things (responsibly)",
-};
-```
+
 
 <br clear="both">
 
