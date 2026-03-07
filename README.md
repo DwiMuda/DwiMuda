@@ -49,93 +49,67 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🎨 Design Playground
-
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=DwiMuda&repo=DesignPlayground&theme=github_dark&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=8b949e&bg_color=0d1117)](https://github.com/DwiMuda/DesignPlayground)
 
-```
-🎯 messing around with UI/UX patterns
-📦 stack: HTML, CSS, JavaScript
-✨ modern web design experiments
-```
+**Design Playground** — UI/UX pattern experiments
 
-<div align="center">
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
 
-[![View Code](https://img.shields.io/badge/View_Code-0d1117?style=for-the-badge&logo=github&logoColor=00D9FF)](https://github.com/DwiMuda/DesignPlayground)
+[![View](https://img.shields.io/badge/View_Code-0d1117?style=flat-square&logo=github&logoColor=00D9FF)](https://github.com/DwiMuda/DesignPlayground)
 
-</div>
 </td>
 <td width="50%" valign="top">
 
-### ✈️ Travel Planner
-
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=DwiMuda&repo=Travel_planer&theme=github_dark&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=8b949e&bg_color=0d1117)](https://github.com/DwiMuda/Travel_planer)
 
-```
-🎯 planning trips made easier
-📦 stack: React, Node.js, APIs
-✨ smart itinerary management
-```
+**Travel Planner** — smart itinerary management
 
-<div align="center">
+![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
+![NodeJS](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=node.js&logoColor=3C873A)
+![API](https://img.shields.io/badge/REST_API-0d1117?style=flat-square&logo=fastapi&logoColor=00D9FF)
 
-[![View Code](https://img.shields.io/badge/View_Code-0d1117?style=for-the-badge&logo=github&logoColor=00D9FF)](https://github.com/DwiMuda/Travel_planer)
+[![View](https://img.shields.io/badge/View_Code-0d1117?style=flat-square&logo=github&logoColor=00D9FF)](https://github.com/DwiMuda/Travel_planer)
 
-</div>
 </td>
 </tr>
 
 <tr>
 <td width="50%" valign="top">
 
-### 🖼️ Watermark Editor
-
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=DwiMuda&repo=WatermarkEditor&theme=github_dark&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=8b949e&bg_color=0d1117)](https://github.com/DwiMuda/WatermarkEditor)
 
-```
-🎯 quick tool for adding watermarks
-📦 stack: JavaScript, Canvas API
-✨ batch processing support
-```
+**Watermark Editor** — batch image processing tool
 
-<div align="center">
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Canvas](https://img.shields.io/badge/Canvas_API-0d1117?style=flat-square&logo=html5&logoColor=E34F26)
 
-[![View Code](https://img.shields.io/badge/View_Code-0d1117?style=for-the-badge&logo=github&logoColor=00D9FF)](https://github.com/DwiMuda/WatermarkEditor)
+[![View](https://img.shields.io/badge/View_Code-0d1117?style=flat-square&logo=github&logoColor=00D9FF)](https://github.com/DwiMuda/WatermarkEditor)
 
-</div>
 </td>
 <td width="50%" valign="top">
 
-### 📱 Login UI
-
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=DwiMuda&repo=Login-Ui-React-Native&theme=github_dark&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=8b949e&bg_color=0d1117)](https://github.com/DwiMuda/Login-Ui-React-Native)
 
-```
-🎯 clean mobile auth experience
-📦 stack: React Native
-✨ minimalist UI design
-```
+**Login UI** — minimalist mobile auth screen
 
-<div align="center">
+![ReactNative](https://img.shields.io/badge/React_Native-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
 
-[![View Code](https://img.shields.io/badge/View_Code-0d1117?style=for-the-badge&logo=github&logoColor=00D9FF)](https://github.com/DwiMuda/Login-Ui-React-Native)
+[![View](https://img.shields.io/badge/View_Code-0d1117?style=flat-square&logo=github&logoColor=00D9FF)](https://github.com/DwiMuda/Login-Ui-React-Native)
 
-</div>
 </td>
 </tr>
 
 <tr>
 <td colspan="2" valign="top">
 
-### 👤 Portfolio Site
-
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=DwiMuda&repo=profile&theme=github_dark&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=8b949e&bg_color=0d1117)](https://github.com/DwiMuda/profile)
 
-<div align="center">
+**Portfolio Site** — everything in one place
 
-[![View Code](https://img.shields.io/badge/View_Code-0d1117?style=for-the-badge&logo=github&logoColor=00D9FF)](https://github.com/DwiMuda/profile)
+[![View](https://img.shields.io/badge/View_Code-0d1117?style=flat-square&logo=github&logoColor=00D9FF)](https://github.com/DwiMuda/profile)
 
-</div>
 </td>
 </tr>
 </table>
@@ -144,30 +118,11 @@
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="20%">
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100"/><br/>
-<sub><b>Gaming</b></sub>
-</td>
-<td align="center" width="20%">
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100"/><br/>
-<sub><b>Anime & Manga</b></sub>
-</td>
-<td align="center" width="20%">
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100"/><br/>
-<sub><b>Coffee</b></sub>
-</td>
-<td align="center" width="20%">
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100"/><br/>
-<sub><b>Music</b></sub>
-</td>
-<td align="center" width="20%">
-<img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="100"/><br/>
-<sub><b>Beach Life</b></sub>
-</td>
-</tr>
-</table>
+![Gaming](https://img.shields.io/badge/Gaming-0d1117?style=for-the-badge&logo=playstation&logoColor=00439C)
+![Anime](https://img.shields.io/badge/Anime_&_Manga-0d1117?style=for-the-badge&logo=myanimelist&logoColor=2E51A2)
+![Coffee](https://img.shields.io/badge/Coffee-0d1117?style=for-the-badge&logo=buymeacoffee&logoColor=FFDD00)
+![Music](https://img.shields.io/badge/Music-0d1117?style=for-the-badge&logo=spotify&logoColor=1DB954)
+![Beach](https://img.shields.io/badge/Beach_Life-0d1117?style=for-the-badge&logo=tripadvisor&logoColor=00AF87)
 
 </div>
 
