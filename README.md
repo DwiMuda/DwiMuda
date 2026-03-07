@@ -1,237 +1,158 @@
 <div align="center">
-<img align="center" alt="Coding" width="800" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExenpzbnk5dmJ5aGtjMG05eGJocGZhYnYzYW5ibnhrNzFrYnVtenVocCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13cswZEvNJM7ZK/giphy.gif">
+
+<!-- HERO SECTION -->
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=DwiMuda&fontSize=70&color=0:0d1117,100:00D9FF&fontColor=ffffff&animation=fadeIn&stroke=00D9FF&strokeWidth=2" width="100%"/>
 
 </div>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+---
 
 <div align="center">
 
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-
-
-
-<div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=DwiMuda&theme=neon-dark&hide_border=true&stroke=0d1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&background=0d1117" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=DwiMuda&custom_title=Contribution%20Graph&bg_color=0d1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&area=true&hide_border=true&height=300" alt="Contribution Graph" />
-</div>
-
-<div align="center">
-  
-
-
-<img width="90%" src="https://github-profile-trophy.vercel.app/?username=DwiMuda&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4&title=Stars,Followers,Commits,Repositories,PullRequest,Reviews,Issues,MultiLanguage" alt="Trophies" />
+```
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│   > whoami                                              │
+│                                                         │
+│   Dek Dwi — Frontend Developer & UI Enthusiast         │
+│   Based in Bali 🌴  ·  Building things for the web     │
+│   Currently: open to opportunities                      │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
 
 </div>
 
-<div align="center">
+---
 
-
-
-<img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DwiMuda&theme=radical" alt="Profile Summary" />
-
-</div>
+## ⚡ Tech Stack
 
 <div align="center">
 
-
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DwiMuda&theme=radical" alt="Productive Time" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DwiMuda&theme=radical" alt="Repos Per Language" />
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Canvas API](https://img.shields.io/badge/Canvas_API-FF6384?style=flat-square&logo=html5&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-
-
-##  PROJECT
+## 🚀 Featured Projects
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### 🎨 Design Playground
+**🎨 Design Playground**
+> Messing around with UI/UX patterns
+- Stack: `HTML` `CSS` `JavaScript`
+- Modern web design experiments
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=DwiMuda&repo=DesignPlayground&theme=neon-dark&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&bg_color=0d1117)](https://github.com/DwiMuda/DesignPlayground)
-
-```
-🎯 messing around with UI/UX patterns
-📦 stack: HTML, CSS, JavaScript
-✨ modern web design experiments
-```
-
-<div align="center">
-
-[![View Code](https://img.shields.io/badge/View_Code-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DwiMuda/DesignPlayground)
-
-</div>
+[![View](https://img.shields.io/badge/View_Repo-0d1117?style=flat-square&logo=github&logoColor=00D9FF&labelColor=0d1117)](https://github.com/DwiMuda/DesignPlayground)
 
 </td>
 <td width="50%" valign="top">
 
-### ✈️ Travel Planner
+**✈️ Travel Planner**
+> Planning trips, made smarter
+- Stack: `React` `Node.js` `APIs`
+- Smart itinerary management
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=DwiMuda&repo=Travel_planer&theme=neon-dark&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&bg_color=0d1117)](https://github.com/DwiMuda/Travel_planer)
-
-```
-🎯 planning trips made easier
-📦 stack: React, Node.js, APIs
-✨ smart itinerary management
-```
-
-<div align="center">
-
-[![View Code](https://img.shields.io/badge/View_Code-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DwiMuda/Travel_planer)
-
-</div>
+[![View](https://img.shields.io/badge/View_Repo-0d1117?style=flat-square&logo=github&logoColor=00D9FF&labelColor=0d1117)](https://github.com/DwiMuda/Travel_planer)
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
-### 🖼️ Watermark Editor
+**🖼️ Watermark Editor**
+> Quick tool for adding watermarks
+- Stack: `JavaScript` `Canvas API`
+- Batch processing support
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=DwiMuda&repo=WatermarkEditor&theme=neon-dark&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&bg_color=0d1117)](https://github.com/DwiMuda/WatermarkEditor)
-
-```
-🎯 quick tool for adding watermarks
-📦 stack: JavaScript, Canvas API
-✨ batch processing support
-```
-
-<div align="center">
-
-[![View Code](https://img.shields.io/badge/View_Code-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DwiMuda/WatermarkEditor)
-
-</div>
+[![View](https://img.shields.io/badge/View_Repo-0d1117?style=flat-square&logo=github&logoColor=00D9FF&labelColor=0d1117)](https://github.com/DwiMuda/WatermarkEditor)
 
 </td>
 <td width="50%" valign="top">
 
-### 📱 Login UI
+**📱 Login UI — React Native**
+> Clean mobile login experience
+- Stack: `React Native`
+- Minimalist auth UI design
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=DwiMuda&repo=Login-Ui-React-Native&theme=neon-dark&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&bg_color=0d1117)](https://github.com/DwiMuda/Login-Ui-React-Native)
-
-
-
-<div align="center">
-
-[![View Code](https://img.shields.io/badge/View_Code-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DwiMuda/Login-Ui-React-Native)
-
-</div>
+[![View](https://img.shields.io/badge/View_Repo-0d1117?style=flat-square&logo=github&logoColor=00D9FF&labelColor=0d1117)](https://github.com/DwiMuda/Login-Ui-React-Native)
 
 </td>
 </tr>
-
 <tr>
 <td colspan="2" valign="top">
 
-### 👤 Portfolio Site
+**👤 Portfolio Site**
+> Personal portfolio — everything in one place
+- A showcase of my work and identity on the web
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=DwiMuda&repo=profile&theme=neon-dark&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&bg_color=0d1117)](https://github.com/DwiMuda/profile)
-
-
-
-<div align="center">
-
-[![View Code](https://img.shields.io/badge/View_Code-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DwiMuda/profile)
-
-</div>
+[![View](https://img.shields.io/badge/View_Repo-0d1117?style=flat-square&logo=github&logoColor=00D9FF&labelColor=0d1117)](https://github.com/DwiMuda/profile)
 
 </td>
 </tr>
 </table>
 
+---
 
-
-
-
-
+## 📊 GitHub Stats
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="20%">
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100"/><br/>
-<sub><b>Gaming</b></sub>
-</td>
-<td align="center" width="20%">
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100"/><br/>
-<sub><b>Anime & Manga</b></sub>
-</td>
-<td align="center" width="20%">
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100"/><br/>
-<sub><b>Coffee</b></sub>
-</td>
-<td align="center" width="20%">
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100"/><br/>
-<sub><b>Music</b></sub>
-</td>
-<td align="center" width="20%">
-<img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="100"/><br/>
-<sub><b>Beach Life</b></sub>
-</td>
-</tr>
-</table>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=DwiMuda&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=8b949e&ring_color=00D9FF" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DwiMuda&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=8b949e" />
 
 </div>
 
-
-
-
-
-
-
-
-
-
 <div align="center">
 
-
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nagamudika@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dek-dwi-35657439b)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/antara_pu)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DwiMuda)
-
-![Profile Views](https://komarev.com/ghpvc/?username=DwiMuda&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=DwiMuda&theme=github-dark-blue&hide_border=true&stroke=0d1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&background=0d1117&sideLabels=8b949e&dates=8b949e" />
 
 </div>
 
+<div align="center">
 
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=DwiMuda&custom_title=Contribution%20Graph&bg_color=0d1117&color=00D9FF&line=00D9FF&point=ffffff&area_color=00D9FF&area=true&hide_border=true&height=280" />
 
+</div>
+
+---
+
+## 🎮 Outside the Code
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+`🎮 Gaming` &nbsp;·&nbsp; `📺 Anime & Manga` &nbsp;·&nbsp; `☕ Coffee` &nbsp;·&nbsp; `🎵 Music` &nbsp;·&nbsp; `🏖️ Beach Life`
 
+</div>
 
+---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+## 📬 Connect
 
+<div align="center">
+
+[![Email](https://img.shields.io/badge/nagamudika@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nagamudika@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dek-dwi-35657439b)
+[![Instagram](https://img.shields.io/badge/@antara__pu-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/antara_pu)
+[![GitHub](https://img.shields.io/badge/DwiMuda-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DwiMuda)
+
+![Profile Views](https://komarev.com/ghpvc/?username=DwiMuda&color=00D9FF&style=flat-square&label=profile+views)
+
+</div>
+
+---
+
+<div align="center">
+<sub>crafted with intention · Bali, Indonesia · 2026</sub>
 </div>
